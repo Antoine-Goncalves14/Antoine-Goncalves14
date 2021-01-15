@@ -20,7 +20,7 @@
 </a>
 
 [![Twitter: Antoinedevweb](https://img.shields.io/twitter/follow/Antoinedevweb?style=social)](https://twitter.com/Antoinedevweb)
-[![Linkedin: antoine-goncalves](https://img.shields.io/badge/-antoine-goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-goncalves-b19569190/)](https://www.linkedin.com/in/antoine-goncalves-b19569190/)
+[![Linkedin: antoine-goncalves](https://img.shields.io/badge/-antoine-goncalves-b19569190-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-goncalves-b19569190/)](https://www.linkedin.com/in/antoine-goncalves-b19569190/)
 [![GitHub Antoine-Goncalves14](https://img.shields.io/github/followers/Antoine-Goncalves14?label=follow&style=social)](https://github.com/Antoine-Goncalves14)
 
 
