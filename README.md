@@ -12,8 +12,8 @@
 
 - Age : 24,
 - Expertise : 1 year,
-- Code : HTML, CSS (SASS), Javascript, SQL, NoSQL, Swift
-- Tools : Node, Nest, Svelte, Postgres, MongoDB, Angular, Vue
+- Code : HTML, CSS (SASS), Javascript, SQL, NoSQL
+- Tools : Node, Node-RED, Nest, Svelte, Postgres, MongoDB, Angular, Vue
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antoine-Goncalves14&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true&hide=issues&theme=dark" />
