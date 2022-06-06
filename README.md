@@ -11,7 +11,7 @@
 ### Who I am ?
 
 - Age : 25,
-- Expertise : 1.5 year,
+- Expertise : 2 year,
 - Code : HTML, CSS (SASS), Javascript, SQL, NoSQL
 - Tools : Node, Node-RED, Nest, Svelte, Postgres, MongoDB, Angular, Vue, Swift, React Native
 
