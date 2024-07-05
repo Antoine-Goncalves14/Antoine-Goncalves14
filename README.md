@@ -4,16 +4,14 @@
 
 <h1>Hello All, I'm Antoine Gonçalves </h1>
 
-<p><em>Web and mobile web developer graduate by Yes We Web
-</br>Fullstack Web Developer at IBM
-</em></p>
+<p><em>Fullstack Web Developer at IBM</em></p>
 
 ### Who I am ?
 
-- Age : 25,
-- Expertise : 2 year,
+- Age : 27,
+- Expertise : 4 year,
 - Code : HTML, CSS (SASS), Javascript, SQL, NoSQL
-- Tools : Node, Node-RED, Nest, Svelte, Postgres, MongoDB, Angular, Vue, Swift, React Native
+- Tools : Node, Angular, Vue, Swift, React Native
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antoine-Goncalves14&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true&hide=issues&theme=dark" />
