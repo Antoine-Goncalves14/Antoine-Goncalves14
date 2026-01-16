@@ -8,14 +8,10 @@
 
 ### Who I am ?
 
-- Age : 27,
-- Expertise : 4 year,
+- Age : 29,
+- Expertise : 6 year,
 - Code : HTML, CSS (SASS), Javascript, SQL, NoSQL
-- Tools : Node, Angular, Vue, Swift, React Native
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Antoine-Goncalves14&show_icons=true&count_private=true&hide_title=TRUE&title_color=FFA500&icon_color=FFA500&hide_border=true&include_all_commits=true&hide=issues&theme=dark" />
-</a>
+- Tools : Node, Nest, React, Angular, Vue, Swift, React Native
 
 [![Twitter: Antoinedevweb](https://img.shields.io/twitter/follow/Antoinedevweb?style=social)](https://twitter.com/Antoinedevweb)
 [![Linkedin: antoine-goncalves](https://img.shields.io/badge/-Goncalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-goncalves-b19569190/)](https://www.linkedin.com/in/antoine-goncalves-b19569190/)
